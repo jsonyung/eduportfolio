@@ -130,6 +130,7 @@ Add these dependencies in your `pubspec.yaml` file and run:
 flutter pub get
 
 ### Contributing
+
 We welcome contributions to EduPortfolio! To contribute:
 
 1. Fork the repository.
@@ -141,8 +142,10 @@ We welcome contributions to EduPortfolio! To contribute:
 Please follow the project's coding style and conventions.
 
 ### License
+
 EduPortfolio is open-source and available under the MIT License.
 
 ---
+
 
 Made with Flutter ❤️
