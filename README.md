@@ -21,9 +21,9 @@ EduPortfolio is an all-in-one platform for students to track their educational j
 
 ## Screenshots
 (Include screenshots of the app here when they are available to showcase the UI and functionality)
-<img src="/screenshots/01.gif" alt="Animated GIF" width="200" style="border: 1px solid #000"/> <img src="/screenshots/1.jpg" alt="Home Screen" width="200" style="border: 1px solid #000"/>  
-<img src="/screenshots/2.jpg" alt="Portfolio Screen" width="200" style="border: 1px solid #000"/> <img src="/screenshots/3.jpg" alt="Search Screen" width="200" style="border: 1px solid #000"/>  
-<img src="/screenshots/4.jpg" alt="Search Screen" width="200" style="border: 1px solid #000"/>
+<img src="/screenshots/01.gif" alt="Animated GIF" width="200"/> <br> <img src="/screenshots/1.jpg" alt="Home Screen" width="200"/><br>
+<img src="/screenshots/2.jpg" alt="Portfolio Screen" width="200"/> <br> <img src="/screenshots/3.jpg" alt="Search Screen" width="200"/><br>
+<img src="/screenshots/4.jpg" alt="Search Screen" width="200"/>
 
 ## Getting Started
 This project is a starting point for a Flutter application using the MVVM (Model-View-ViewModel) architecture pattern with Provider for state management.
