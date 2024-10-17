@@ -1,0 +1,93 @@
+name: eduportfolio
+description: "EduPortfolio is an all-in-one platform for students to track their educational journey, manage projects, and showcase their achievements. With easy access to saved work, shared projects, and earned achievements, EduPortfolio empowers students to visualize their learning path and accomplishments."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_screenutil: ^5.9.3
+  provider: ^6.1.2
+  flutter_svg: ^2.0.10+1
+  flutter_launcher_icons: ^0.14.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icons/logo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/icons/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Roboto-Black
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+    - family: Roboto-BlackItalic
+      fonts:
+        - asset: assets/fonts/Roboto-BlackItalic.ttf
+    - family: Roboto-Bold
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+    - family: Roboto-BoldItalic
+      fonts:
+        - asset: assets/fonts/Roboto-BoldItalic.ttf
+    - family: Roboto-Italic
+      fonts:
+        - asset: assets/fonts/Roboto-Italic.ttf
+    - family: Roboto-Light
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+    - family: Roboto-LightItalic
+      fonts:
+        - asset: assets/fonts/Roboto-LightItalic.ttf
+    - family: Roboto-Medium
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+    - family: Roboto-MediumItalic
+      fonts:
+        - asset: assets/fonts/Roboto-MediumItalic.ttf
+    - family: Roboto-Regular
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: Roboto-Thin
+      fonts:
+        - asset: assets/fonts/Roboto-Thin.ttf
+    - family: Roboto-ThinItalic
+      fonts:
+        - asset: assets/fonts/Roboto-ThinItalic.ttf
+
+  assets:
+    - assets/data/projects.json
+    - assets/images/icons/home.svg
+    - assets/images/icons/input.svg
+    - assets/images/icons/logo.png
+    - assets/images/icons/portfolio.svg
+    - assets/images/icons/profile.svg
+    - assets/images/projects/project_1.png
+    - assets/images/projects/project_10.png
+    - assets/images/projects/project_11.png
+    - assets/images/projects/project_12.png
+    - assets/images/projects/project_13.png
+    - assets/images/projects/project_14.png
+    - assets/images/projects/project_2.png
+    - assets/images/projects/project_3.png
+    - assets/images/projects/project_4.png
+    - assets/images/projects/project_5.png
+    - assets/images/projects/project_6.png
+    - assets/images/projects/project_7.png
+    - assets/images/projects/project_8.png
+    - assets/images/projects/project_9.png

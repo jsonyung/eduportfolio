@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Flutter Development Basics",
+    "subject": "Computer Science",
+    "author": "John Doe",
+    "imageUrl": "assets/images/projects/project_1.png",
+    "badge": "A+"
+  },
+  {
+    "title": "AI Research Paper",
+    "subject": "Artificial Intelligence",
+    "author": "Jane Smith",
+    "imageUrl": "assets/images/projects/project_2.png",
+    "badge": "A"
+  },
+  {
+    "title": "Mobile App Design",
+    "subject": "Design",
+    "author": "Chris Lee",
+    "imageUrl": "assets/images/projects/project_3.png",
+    "badge": "B+"
+  },
+  {
+    "title": "Data Science Overview",
+    "subject": "Data Science",
+    "author": "Sarah Brown",
+    "imageUrl": "assets/images/projects/project_4.png",
+    "badge": "B"
+  },
+  {
+    "title": "Graphic Design Portfolio",
+    "subject": "Design",
+    "author": "Michael Johnson",
+    "imageUrl": "assets/images/projects/project_5.png",
+    "badge": "A"
+  },
+  {
+    "title": "Cybersecurity Basics",
+    "subject": "Cybersecurity",
+    "author": "Emily Davis",
+    "imageUrl": "assets/images/projects/project_6.png",
+    "badge": "C"
+  },
+  {
+    "title": "Cloud Computing Introduction",
+    "subject": "Cloud Computing",
+    "author": "Liam Martinez",
+    "imageUrl": "assets/images/projects/project_7.png",
+    "badge": "B+"
+  },
+  {
+    "title": "Blockchain Fundamentals",
+    "subject": "Blockchain Technology",
+    "author": "Sophia Anderson",
+    "imageUrl": "assets/images/projects/project_8.png",
+    "badge": "A+"
+  },
+  {
+    "title": "Game Development Project",
+    "subject": "Computer Science",
+    "author": "Olivia Garcia",
+    "imageUrl": "assets/images/projects/project_9.png",
+    "badge": "A"
+  },
+  {
+    "title": "Network Security Analysis",
+    "subject": "Networking",
+    "author": "James Wilson",
+    "imageUrl": "assets/images/projects/project_10.png",
+    "badge": "A+"
+  },
+  {
+    "title": "Big Data in Modern Tech",
+    "subject": "Data Science",
+    "author": "Chris Lee",
+    "imageUrl": "assets/images/projects/project_11.png",
+    "badge": "B"
+  },
+  {
+    "title": "Machine Learning Basics",
+    "subject": "AI/ML",
+    "author": "John Doe",
+    "imageUrl": "assets/images/projects/project_12.png",
+    "badge": "B+"
+  },
+  {
+    "title": "IoT and Home Automation",
+    "subject": "IoT",
+    "author": "Jane Smith",
+    "imageUrl": "assets/images/projects/project_13.png",
+    "badge": "A"
+  },
+  {
+    "title": "Web Development Portfolio",
+    "subject": "Web Development",
+    "author": "Michael Johnson",
+    "imageUrl": "assets/images/projects/project_14.png",
+    "badge": "A"
+  }
+]
