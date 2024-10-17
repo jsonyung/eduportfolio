@@ -128,6 +128,7 @@ Add these dependencies in your `pubspec.yaml` file and run:
 
 ```bash
 flutter pub get
+```
 
 ### Contributing
 
