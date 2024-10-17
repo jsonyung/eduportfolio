@@ -6,11 +6,14 @@ EduPortfolio is an all-in-one platform for students to track their educational j
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
 - [App Architecture](#app-architecture)
+- [Explanation](#explanation)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 ## Features
 - **Project Management**: Track and manage educational projects with ease.
@@ -20,7 +23,8 @@ EduPortfolio is an all-in-one platform for students to track their educational j
 - **Tab Navigation**: Navigate seamlessly between Projects, Saved Work, Shared Items, and Achievements.
 
 ## Screenshots
-(Include screenshots of the app here when they are available to showcase the UI and functionality)
+
+Here are some screenshots of the app to showcase the UI and functionality:
 
 <img src="/screenshots/01.gif" alt="Animated GIF" width="200"/> --- <img src="/screenshots/1.jpg" alt="Home Screen" width="200"/> ---
 <img src="/screenshots/2.jpg" alt="Portfolio Screen" width="200"/> --- <img src="/screenshots/3.jpg" alt="Search Screen" width="200"/> ---
